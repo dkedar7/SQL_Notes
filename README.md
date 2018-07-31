@@ -6,6 +6,6 @@ For this reason, the tool of choice is Jupyter Notebook where one can type a que
 This is only a list of different SQL queries and does not attempt to analyze data using SQL.
 
 The sample database (chinook.db) has been obtained from https://github.com/lerocha/chinook-database. The diagram of this database is as follows:
-![ok](http://www.sqlitetutorial.net/wp-content/uploads/2015/11/sqlite-sample-database-color.jpg)
+![source: 'http://www.sqlitetutorial.net/sqlite-sample-database/'](http://www.sqlitetutorial.net/wp-content/uploads/2015/11/sqlite-sample-database-color.jpg)
 
 Python library sqlite3 has been used to process SQL queries. The 'to_sql_query' functionality of Pandas helps view the resultiung views as a Pandas dataFrame.
